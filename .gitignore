@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 *.json
-=======
 *.exe
->>>>>>> de345a308d76d8de922fb09f83ad58d2f2db98a5
+.*
+main
