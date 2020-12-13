@@ -13,6 +13,6 @@ int main()
     std::cout << allNums[2] << std::endl;
 
     std::cout << "hello git and Makfile!" << std::endl;
-    std::cout << "printf from Linux!" << std::endl;
+    std::cout << "printf from Windows!" << std::endl;
     return 0;
 }
