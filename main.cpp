@@ -2,6 +2,11 @@
 #include <vector>
 #include <map>
 
+void fun2()
+{
+    std::cout << "fun2" << std::endl;
+}
+
 int main()
 {
     std::vector<int> allNums;
