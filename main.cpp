@@ -14,5 +14,6 @@ int main()
 
     std::cout << "hello git and Makfile!" << std::endl;
     std::cout << "printf from Windows!" << std::endl;
+    std::cout << "master add!" << std::endl;
     return 0;
 }
