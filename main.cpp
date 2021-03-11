@@ -7,11 +7,6 @@ void fun2()
     std::cout << "fun2" << std::endl;
 }
 
-void fun3()
-{
-    std::cout << "fun3" << std::endl;
-}
-
 int main()
 {
     std::vector<int> allNums;
